@@ -17,4 +17,4 @@ git config --global user.name "${GITHUB_USER}"
 mkdir -p "${ROM_DIR}"
 cd "${ROM_DIR}"
 
-source "${my_dir}"/sync.sh
+#source "${my_dir}"/sync.sh
